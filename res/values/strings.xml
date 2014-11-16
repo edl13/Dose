@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dose</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="speak">say something pls</string>
+    <string name="schedule">Schedule</string>
+    <string name="title_activity_pill_list_view">PillListView</string>
+    <string name="title_activity_blank">BlankActivity</string>
+
+</resources>
